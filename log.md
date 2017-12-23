@@ -17,3 +17,16 @@ here.
 time. I played myself this [video](https://vimeo.com/85040589). I need to find way to be better at designing.
 
 **Link to work:** [toastmasters-conference](https://github.com/krzysztofzuraw/toastmasters-conference)
+
+## Day 2: December 23, 2017
+
+**Today's Progress**: Implemented custom button in header for TM conf static site; have working
+pseudocode for quicksort partition. Created blog post about 100 days challenge.
+
+**Thoughts:** I've made a progress! I have my header looking a little bit better than yesterday. I
+also made my partition logic in quicksort working.
+
+**Link to work:**
+
+* [toastmasters-conference](https://github.com/krzysztofzuraw/toastmasters-conference)
+* [blog post](https://krzysztofzuraw.com/blog/2017/100days.html)
