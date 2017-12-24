@@ -30,3 +30,12 @@ also made my partition logic in quicksort working.
 
 * [toastmasters-conference](https://github.com/krzysztofzuraw/toastmasters-conference)
 * [blog post](https://krzysztofzuraw.com/blog/2017/100days.html)
+
+## Day 3: December 24, 2017
+
+**Today's Progress**: Working with about section in TM conf static site - get margings and paddings
+done, learn difference between svg and inline svg. Implemented quicksort partition.
+
+**Thoughts:** Another day of progress! Useful knowledge of CSS and quicksort.
+
+**Link to work:** [toastmasters-conference](https://github.com/krzysztofzuraw/toastmasters-conference)
