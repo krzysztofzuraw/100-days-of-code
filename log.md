@@ -39,3 +39,9 @@ done, learn difference between svg and inline svg. Implemented quicksort partiti
 **Thoughts:** Another day of progress! Useful knowledge of CSS and quicksort.
 
 **Link to work:** [toastmasters-conference](https://github.com/krzysztofzuraw/toastmasters-conference)
+
+## Day 4: December 25, 2017
+
+**Today's Progress:** Nothing - it's Christmas 🎄
+
+**Thoughts:** Merry Christmas
