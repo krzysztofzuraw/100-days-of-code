@@ -45,3 +45,14 @@ done, learn difference between svg and inline svg. Implemented quicksort partiti
 **Today's Progress:** Nothing - it's Christmas 🎄
 
 **Thoughts:** Merry Christmas
+
+## Day 5: December 26, 2017
+
+**Today's Progress:** Implemented quicksort. Working with speakers section for webpage.
+
+**Thoughts:** I had to reread how to do recursion calls. I get some things about CSS.
+
+**Link to work:**
+
+* [toastmasters-conference](https://github.com/krzysztofzuraw/toastmasters-conference)
+* [quicksort](https://github.com/krzysztofzuraw/learn-algorithms-data-structures-design-patterns/blob/master/quick_sort/quick_sort.py)
