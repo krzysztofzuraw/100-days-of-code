@@ -56,3 +56,16 @@ done, learn difference between svg and inline svg. Implemented quicksort partiti
 
 * [toastmasters-conference](https://github.com/krzysztofzuraw/toastmasters-conference)
 * [quicksort](https://github.com/krzysztofzuraw/learn-algorithms-data-structures-design-patterns/blob/master/quick_sort/quick_sort.py)
+
+## Day 6: December 27, 2017
+
+**Today's Progress:** Added analysis of quicksort. Working with agenda section for webpage. Done
+deliberate practice for CSS grid.
+
+**Thoughts:** Analysis done! It is time to get to work with trees. Learning a few useful tricks with
+CSS grid.
+
+**Link to work:**
+
+* [toastmasters-conference](https://github.com/krzysztofzuraw/toastmasters-conference)
+* [codepen collection](https://codepen.io/collection/nVPdqy/#)
