@@ -91,3 +91,14 @@ CSS grid.
 
 * [toastmasters-conference](https://github.com/krzysztofzuraw/toastmasters-conference)
 * [codepen collection](https://codepen.io/collection/nVPdqy/#)
+
+## Day 9: December 30, 2017
+
+**Today's Progress:** Working on tree data structure. Agenda done - sponsors and team left.
+
+**Thoughts:** Right now I see what others have in mind when they told - base your designs on others.
+
+**Link to work:**
+
+* [toastmasters-conference](https://github.com/krzysztofzuraw/toastmasters-conference)
+* [codepen collection](https://codepen.io/collection/nVPdqy/#)
