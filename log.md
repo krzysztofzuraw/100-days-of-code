@@ -102,3 +102,20 @@ CSS grid.
 
 * [toastmasters-conference](https://github.com/krzysztofzuraw/toastmasters-conference)
 * [codepen collection](https://codepen.io/collection/nVPdqy/#)
+
+## Day 10: December 31, 2017
+
+**Today's Progress:** Nothing - new years eve
+
+**Thoughts:** 
+
+## Day 11: January 1, 2018
+
+**Today's Progress:** Algoritm for path finding inside tree almost done. TM conf website - version 1 done.
+
+**Thoughts:** I've made first version of toastmasters conference website - right now I will go to check if desing
+was correct.
+
+**Link to work:**
+
+* [toastmasters-conference](https://github.com/krzysztofzuraw/toastmasters-conference)
