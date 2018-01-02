@@ -107,15 +107,25 @@ CSS grid.
 
 **Today's Progress:** Nothing - new years eve
 
-**Thoughts:** 
+**Thoughts:**
 
 ## Day 11: January 1, 2018
 
-**Today's Progress:** Algoritm for path finding inside tree almost done. TM conf website - version 1 done.
+**Today's Progress:** Algorithm for path finding inside tree almost done. TM conf website - version 1 done.
 
-**Thoughts:** I've made first version of toastmasters conference website - right now I will go to check if desing
+**Thoughts:** I've made first version of toastmasters conference website - right now I will go to check if design
 was correct.
 
 **Link to work:**
 
 * [toastmasters-conference](https://github.com/krzysztofzuraw/toastmasters-conference)
+
+## Day 12: January 2, 2018
+
+**Today's Progress:** Algorithm for path finding inside tree done for left sie. Started working on
+new blog post and some code for that.
+
+**Thoughts:** Algorithm for path almost works - it needs a little bit more polishing. In new blog post
+I want to write about mutations in GraphQL.
+
+**Link to work:**
