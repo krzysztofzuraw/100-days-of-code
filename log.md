@@ -128,4 +128,16 @@ new blog post and some code for that.
 **Thoughts:** Algorithm for path almost works - it needs a little bit more polishing. In new blog post
 I want to write about mutations in GraphQL.
 
-**Link to work:**
+## Day 13: January 3, 2018
+
+**Today's Progress:** Egghead course about React Advanced Patterns - done.
+
+**Thoughts:** I was able to do two lessons from Advanced React Patterns course.
+
+## Day 14: January 4, 2018
+
+**Today's Progress:** Algorithm for path finding inside tree done! Started working on
+Relay mutations for new blog post.
+
+**Thoughts:** I was really surprised when today algorithm started working without any problem. I made
+some progress on relay too.
