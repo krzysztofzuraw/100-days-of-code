@@ -141,3 +141,11 @@ Relay mutations for new blog post.
 
 **Thoughts:** I was really surprised when today algorithm started working without any problem. I made
 some progress on relay too.
+
+## Day 15: January 5, 2018
+
+**Today's Progress:** As it turns out my algorithm doesn't include one case - back to implementation! Code for 
+new blog post done. Working with my presentation.
+
+**Thoughts:** I right now try to fix problem with algo. I have my code done for blog post so I can tomorrow write
+a new one!
