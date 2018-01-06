@@ -149,3 +149,10 @@ new blog post done. Working with my presentation.
 
 **Thoughts:** I right now try to fix problem with algo. I have my code done for blog post so I can tomorrow write
 a new one!
+
+## Day 16: January 6, 2018
+
+**Today's Progress:** Blog post released. TM conf in progress.
+
+**Thoughts:** I made new blog post about Mutations in Relay - I think I will end this series on this one. TM conf is
+still work in progress.
