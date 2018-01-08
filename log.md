@@ -156,3 +156,11 @@ a new one!
 
 **Thoughts:** I made new blog post about Mutations in Relay - I think I will end this series on this one. TM conf is
 still work in progress.
+
+## Day 17: January 8, 2018
+
+**Today's Progress:** Algorithm is working after fixes! Isn't the most efficient one but it works! I also refactor
+a little bit CSS.
+
+**Thoughts:** It turns out that problem with failing test was due to error on assertion in the test - I think I means that
+my `Tree` class is too complicated.
