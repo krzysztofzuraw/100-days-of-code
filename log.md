@@ -164,3 +164,9 @@ a little bit CSS.
 
 **Thoughts:** It turns out that problem with failing test was due to error on assertion in the test - I think I means that
 my `Tree` class is too complicated.
+
+## Day 18: January 9, 2018
+
+**Today's Progress:** Analysis of my tree algorithm done. Working with css media queries.
+
+**Thoughts:** I did my first time analysis of algorithm - I have to ask other ppl to review this. Started playig around with media queries.
