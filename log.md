@@ -170,3 +170,9 @@ my `Tree` class is too complicated.
 **Today's Progress:** Analysis of my tree algorithm done. Working with css media queries.
 
 **Thoughts:** I did my first time analysis of algorithm - I have to ask other ppl to review this. Started playig around with media queries.
+
+## Day 19: January 15, 2018
+
+**Today's Progress:** Fixing css media queries, working with pagination in react.
+
+**Thoughts:** I have a couple of days off - I'm going back to work!
