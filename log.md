@@ -176,3 +176,9 @@ my `Tree` class is too complicated.
 **Today's Progress:** Fixing css media queries, working with pagination in react.
 
 **Thoughts:** I have a couple of days off - I'm going back to work!
+
+## Day 20: January 16, 2018
+
+**Today's Progress:** Trying to fix error with css and width in mobile. Playing with flow type annotations.
+
+**Thoughts:** I'm trying to wrap my head around why I don't have my width as 100% in mobile.
