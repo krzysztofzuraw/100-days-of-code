@@ -182,3 +182,9 @@ my `Tree` class is too complicated.
 **Today's Progress:** Trying to fix error with css and width in mobile. Playing with flow type annotations.
 
 **Thoughts:** I'm trying to wrap my head around why I don't have my width as 100% in mobile.
+
+## Day 21: January 19, 2018
+
+**Today's Progress:** Started Graph data structure. CSS media queries are working.
+
+**Thoughts:** A lot of progress - I'm proud of my CSS media queries - they are working!
