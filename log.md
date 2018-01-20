@@ -188,3 +188,9 @@ my `Tree` class is too complicated.
 **Today's Progress:** Started Graph data structure. CSS media queries are working.
 
 **Thoughts:** A lot of progress - I'm proud of my CSS media queries - they are working!
+
+## Day 22: January 20, 2018
+
+**Today's Progress:** Added smooth scrolling for TM conf webiste. Released new blog post.
+
+**Thoughts:** In this week I decided to write more about working with legacy codebase. I also play a bit with conf website.
