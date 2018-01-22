@@ -194,3 +194,9 @@ my `Tree` class is too complicated.
 **Today's Progress:** Added smooth scrolling for TM conf webiste. Released new blog post.
 
 **Thoughts:** In this week I decided to write more about working with legacy codebase. I also play a bit with conf website.
+
+## Day 23: January 22, 2018
+
+**Today's Progress:** Adding SEO & social media tags to tm conf website. Preparing to talk.
+
+**Thoughts:** I've added an new SEO & social media tags. First round of talk preparation done.
