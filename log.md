@@ -200,3 +200,9 @@ my `Tree` class is too complicated.
 **Today's Progress:** Adding SEO & social media tags to tm conf website. Preparing to talk.
 
 **Thoughts:** I've added an new SEO & social media tags. First round of talk preparation done.
+
+## Day 24: January 24, 2018
+
+**Today's Progress:** Talk preps & playing with React & Redux and multiple forms.
+
+**Thoughts:** After reading a couple of post about redux - I started looking a this lib a little bit different.
