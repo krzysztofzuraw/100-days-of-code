@@ -206,3 +206,9 @@ my `Tree` class is too complicated.
 **Today's Progress:** Talk preps & playing with React & Redux and multiple forms.
 
 **Thoughts:** After reading a couple of post about redux - I started looking a this lib a little bit different.
+
+## Day 25: January 25, 2018
+
+**Today's Progress:** Talk preps & playing with Redux multiple reducers.
+
+**Thoughts:** Today I'm trying to wrap my head around problem of calculating one piece of information based on the other in Redux.
