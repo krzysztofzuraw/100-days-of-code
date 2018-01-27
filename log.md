@@ -212,3 +212,9 @@ my `Tree` class is too complicated.
 **Today's Progress:** Talk preps & playing with Redux multiple reducers.
 
 **Thoughts:** Today I'm trying to wrap my head around problem of calculating one piece of information based on the other in Redux.
+
+## Day 26: January 27, 2018
+
+**Today's Progress:** Writing test for React & Redux components & containers.
+
+**Thoughts:** Today I learned that enzyme is not supporting all the new features from React 16 like `<Fragment>` maybe it is good idea to help them?
