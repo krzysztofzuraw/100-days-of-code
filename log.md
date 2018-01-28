@@ -218,3 +218,9 @@ my `Tree` class is too complicated.
 **Today's Progress:** Writing test for React & Redux components & containers.
 
 **Thoughts:** Today I learned that enzyme is not supporting all the new features from React 16 like `<Fragment>` maybe it is good idea to help them?
+
+## Day 27: January 28, 2018
+
+**Today's Progress:** Writing a new blog post, playing with flow
+
+**Thoughts:** Today I wrote blog post about my talk at python belgrade. I also added flow typecheck to project that I'm working on.
