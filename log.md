@@ -224,3 +224,9 @@ my `Tree` class is too complicated.
 **Today's Progress:** Writing a new blog post, playing with flow
 
 **Thoughts:** Today I wrote blog post about my talk at python belgrade. I also added flow typecheck to project that I'm working on.
+
+## Day 28: January 29, 2018
+
+**Today's Progress:** Wrote fibonacci sequence solution in JS. Updated PR for relay docs.
+
+**Thoughts:** I cannot belive that I forgot how to implement fibonacci sequence in JS - I implemented them asap (both with recursion & by iteration.
