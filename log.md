@@ -230,3 +230,8 @@ my `Tree` class is too complicated.
 **Today's Progress:** Wrote fibonacci sequence solution in JS. Updated PR for relay docs.
 
 **Thoughts:** I cannot belive that I forgot how to implement fibonacci sequence in JS - I implemented them asap (both with recursion & by iteration.
+
+## Day 29: January 30, 2018
+
+**Today's Progress:** Added polish language to TM conf website. Reading & playing with YDKJS book.
+**Thoughts:** This YDKJS book is totaly worth it - every time I read it I'm learning a new thing.
