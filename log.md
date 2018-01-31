@@ -235,3 +235,8 @@ my `Tree` class is too complicated.
 
 **Today's Progress:** Added polish language to TM conf website. Reading & playing with YDKJS book.
 **Thoughts:** This YDKJS book is totaly worth it - every time I read it I'm learning a new thing.
+
+## Day 30: January 31, 2018
+
+**Today's Progress:** Going back to my personal react project. Playing also with a code for a new blog post about debouncing in react.
+**Thoughts:** I've come back to a little bit legacy stuff just to see what can be changed - nice feeling.
