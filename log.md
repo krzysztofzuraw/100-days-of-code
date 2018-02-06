@@ -248,3 +248,9 @@ my `Tree` class is too complicated.
 **Today's Progress:** Writing unit tests for redux thunk actions. Plaing a little bit with javascript on code wars.
 
 **Thoughts:** I have my basic unit tests ready so I can right now start refactoring UI of this app.
+
+## Day 32: February 5, 2018
+
+**Today's Progress:** Playing a bit with reselect library. Working with react & redux actions.
+
+**Thoughts:** Reselect is a great tool. Also the more I wrote tests the more I'm confident that my code works.
