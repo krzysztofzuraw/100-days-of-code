@@ -254,3 +254,9 @@ my `Tree` class is too complicated.
 **Today's Progress:** Playing a bit with reselect library. Working with react & redux actions.
 
 **Thoughts:** Reselect is a great tool. Also the more I wrote tests the more I'm confident that my code works.
+
+## Day 33: February 6, 2018
+
+**Today's Progress:** Read day - algorithms & YDKJ.
+
+**Thoughts:** You don't know JS gives me a headache about `this` keyword in JS. I also started working through algo book.
