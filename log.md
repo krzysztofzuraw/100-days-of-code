@@ -260,3 +260,9 @@ my `Tree` class is too complicated.
 **Today's Progress:** Read day - algorithms & YDKJ.
 
 **Thoughts:** You don't know JS gives me a headache about `this` keyword in JS. I also started working through algo book.
+
+## Day 33: February 6, 2018
+
+**Today's Progress:** Playing with algorithms in JS.
+
+**Thoughts:** Today I reimplemented popular coding challenges in JS - for fun.
