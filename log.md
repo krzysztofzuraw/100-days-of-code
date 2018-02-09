@@ -261,8 +261,14 @@ my `Tree` class is too complicated.
 
 **Thoughts:** You don't know JS gives me a headache about `this` keyword in JS. I also started working through algo book.
 
-## Day 33: February 6, 2018
+## Day 34: February 8, 2018
 
 **Today's Progress:** Playing with algorithms in JS.
 
 **Thoughts:** Today I reimplemented popular coding challenges in JS - for fun.
+
+## Day 35: February 9, 2018
+
+**Today's Progress:** Playing with algorithms and nginx in docker.
+
+**Thoughts:** Today I have a little bit of work with configuring nginx to work with docker.
