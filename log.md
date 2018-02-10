@@ -272,3 +272,9 @@ my `Tree` class is too complicated.
 **Today's Progress:** Playing with algorithms and nginx in docker.
 
 **Thoughts:** Today I have a little bit of work with configuring nginx to work with docker.
+
+## Day 36: February 10, 2018
+
+**Today's Progress:** Writing a new blog post.
+
+**Thoughts:** Today I wrote a new blog post.
