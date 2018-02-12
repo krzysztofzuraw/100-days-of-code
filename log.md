@@ -278,3 +278,9 @@ my `Tree` class is too complicated.
 **Today's Progress:** Writing a new blog post.
 
 **Thoughts:** Today I wrote a new blog post.
+
+## Day 37: February 12, 2018
+
+**Today's Progress:** Adding proper text & pictures to tm conf website. Preparing for a new blog post.
+
+**Thoughts:** I added a logos to tm conference website. It started getting more and more awesome!
