@@ -284,3 +284,9 @@ my `Tree` class is too complicated.
 **Today's Progress:** Adding proper text & pictures to tm conf website. Preparing for a new blog post.
 
 **Thoughts:** I added a logos to tm conference website. It started getting more and more awesome!
+
+## Day 38: February 13, 2018
+
+**Today's Progress:** Working with toastmasters conference css.
+
+**Thoughts:** Today I figure out that conference website is broken on mobile - to fix.
