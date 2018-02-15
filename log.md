@@ -290,3 +290,9 @@ my `Tree` class is too complicated.
 **Today's Progress:** Working with toastmasters conference css.
 
 **Thoughts:** Today I figure out that conference website is broken on mobile - to fix.
+
+## Day 39: February 14, 2018
+
+**Today's Progress:** Working with toastmasters conference & custom react component.
+
+**Thoughts:** I found CodeSandobx - awesome way to work with small react projects
