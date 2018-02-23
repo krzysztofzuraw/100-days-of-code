@@ -308,3 +308,9 @@ my `Tree` class is too complicated.
 **Today's Progress:** Working with react code for my new blog post.
 
 **Thoughts:** I played a little bit with React and debounce - it was fun.
+
+## Day 42: February 23, 2018
+
+**Today's Progress:** Working with react components.
+
+**Thoughts:** I implemented designs changes.
