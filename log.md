@@ -144,7 +144,7 @@ some progress on relay too.
 
 ## Day 15: January 5, 2018
 
-**Today's Progress:** As it turns out my algorithm doesn't include one case - back to implementation! Code for 
+**Today's Progress:** As it turns out my algorithm doesn't include one case - back to implementation! Code for
 new blog post done. Working with my presentation.
 
 **Thoughts:** I right now try to fix problem with algo. I have my code done for blog post so I can tomorrow write
@@ -314,3 +314,14 @@ my `Tree` class is too complicated.
 **Today's Progress:** Working with react components.
 
 **Thoughts:** I implemented designs changes.
+
+## Day 43: February 24, 2018
+
+**Today's Progress:** Working with css & html for TM conf website. Trying to recreate redux course from egghead.io.
+
+**Thoughts:** This is funny to see how much work you still need for your designs to look decent.
+
+**Link to work:**
+
+* [toastmasters-conference](https://github.com/krzysztofzuraw/toastmasters-conference)
+* [codesandbox](https://codesandbox.io/s/6xqwj71vx3)
