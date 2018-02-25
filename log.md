@@ -325,3 +325,13 @@ my `Tree` class is too complicated.
 
 * [toastmasters-conference](https://github.com/krzysztofzuraw/toastmasters-conference)
 * [codesandbox](https://codesandbox.io/s/6xqwj71vx3)
+
+## Day 44: February 24, 2018
+
+**Today's Progress:** Playing with css to my pet project. Writing blog post.
+
+**Thoughts:** I stated implementing designs to my pet project - photogram. I also wrote a new blog post.
+
+**Link to work:**
+
+* [codesandbox](https://codesandbox.io/s/6xqwj71vx3)
