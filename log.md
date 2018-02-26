@@ -326,11 +326,21 @@ my `Tree` class is too complicated.
 * [toastmasters-conference](https://github.com/krzysztofzuraw/toastmasters-conference)
 * [codesandbox](https://codesandbox.io/s/6xqwj71vx3)
 
-## Day 44: February 24, 2018
+## Day 44: February 25, 2018
 
 **Today's Progress:** Playing with css to my pet project. Writing blog post.
 
 **Thoughts:** I stated implementing designs to my pet project - photogram. I also wrote a new blog post.
+
+**Link to work:**
+
+* [codesandbox](https://codesandbox.io/s/6xqwj71vx3)
+
+## Day 45: February 26, 2018
+
+**Today's Progress:** Moving my react components from codesandbox to local project.
+
+**Thoughts:** I moved my codesandbox code from their website to my local project - it looks awesome! All I need more is some tweaks.
 
 **Link to work:**
 
