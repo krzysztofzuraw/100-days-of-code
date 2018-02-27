@@ -345,3 +345,9 @@ my `Tree` class is too complicated.
 **Link to work:**
 
 * [codesandbox](https://codesandbox.io/s/6xqwj71vx3)
+
+## Day 46: February 27, 2018
+
+**Today's Progress:** Working on saving redux state to local storage.
+
+**Thoughts:** Based on video from idiomatic redux series on egghead.io I tried to move my state to be persist in local storage.
