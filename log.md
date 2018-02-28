@@ -351,3 +351,9 @@ my `Tree` class is too complicated.
 **Today's Progress:** Working on saving redux state to local storage.
 
 **Thoughts:** Based on video from idiomatic redux series on egghead.io I tried to move my state to be persist in local storage.
+
+## Day 47: February 28, 2018
+
+**Today's Progress:** Working on moving designs from figma to my codesandbox.
+
+**Thoughts:** Today I was working on presenting a designs from figma in codesandbox. I will try to use glamorous for that.
