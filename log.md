@@ -357,3 +357,9 @@ my `Tree` class is too complicated.
 **Today's Progress:** Working on moving designs from figma to my codesandbox.
 
 **Thoughts:** Today I was working on presenting a designs from figma in codesandbox. I will try to use glamorous for that.
+
+## Day 48: March 1, 2018
+
+**Today's Progress:** Conference website is live. Fixing css erorrs.
+
+**Thoughts:** I was able to deploy my static site to levelupwroclaw.pl -> site is live! 
