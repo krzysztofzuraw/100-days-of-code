@@ -360,6 +360,17 @@ my `Tree` class is too complicated.
 
 ## Day 48: March 1, 2018
 
-**Today's Progress:** Conference website is live. Fixing css erorrs.
+**Today's Progress:** Conference website is live. Fixing css errors.
 
-**Thoughts:** I was able to deploy my static site to levelupwroclaw.pl -> site is live! 
+**Thoughts:** I was able to deploy my static site to levelupwroclaw.pl -> site is live!
+
+## Day 49: March 2, 2018
+
+**Today's Progress:** Writing blog post about js promises. Fixing css layout for mobile on tm conf website.
+
+**Thoughts:** I was wrote a new blog post about js promises. Also I fixed css grid problem for mobile devices.
+
+**Link to work:**
+
+* [toastmasters conference webiste](levelupwroclaw.pl)
+* [blog](https://krzysztofzuraw.com/blog/2018/you-do-not-know-promises.html)
