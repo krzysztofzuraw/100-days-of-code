@@ -374,3 +374,13 @@ my `Tree` class is too complicated.
 
 * [toastmasters conference webiste](levelupwroclaw.pl)
 * [blog](https://krzysztofzuraw.com/blog/2018/you-do-not-know-promises.html)
+
+## Day 50: March 2, 2018
+
+**Today's Progress:** Adding logos to tm conf.
+
+**Thoughts:** Today I didn't do much - just added logo to tm conference.
+
+**Link to work:**
+
+* [toastmasters conference website](levelupwroclaw.pl)
