@@ -375,7 +375,7 @@ my `Tree` class is too complicated.
 * [toastmasters conference webiste](levelupwroclaw.pl)
 * [blog](https://krzysztofzuraw.com/blog/2018/you-do-not-know-promises.html)
 
-## Day 50: March 2, 2018
+## Day 50: March 5, 2018
 
 **Today's Progress:** Adding logos to tm conf.
 
@@ -384,3 +384,13 @@ my `Tree` class is too complicated.
 **Link to work:**
 
 * [toastmasters conference website](levelupwroclaw.pl)
+
+## Day 51: March 6, 2018
+
+**Today's Progress:** Refactoring React components in my pet project.
+
+**Thoughts:** After watching react advanced course at egghead - I've a lot of things to refactor.
+
+**Link to work:**
+
+* [photogram](https://github.com/krzysztofzuraw/photogram)
