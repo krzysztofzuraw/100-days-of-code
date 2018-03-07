@@ -394,3 +394,13 @@ my `Tree` class is too complicated.
 **Link to work:**
 
 * [photogram](https://github.com/krzysztofzuraw/photogram)
+
+## Day 52: March 7, 2018
+
+**Today's Progress:** Adding persist redux state to my pet project.
+
+**Thoughts:** Today I was able to add presist state to my project - only thing that left is ssr.
+
+**Link to work:**
+
+* [photogram](https://github.com/krzysztofzuraw/photogram)
