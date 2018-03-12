@@ -404,3 +404,9 @@ my `Tree` class is too complicated.
 **Link to work:**
 
 * [photogram](https://github.com/krzysztofzuraw/photogram)
+
+## Day 53: March 12, 2018
+
+**Today's Progress:** Doing speaker page for TM conf.
+
+**Thoughts:** I added simple website for individual speaker on TM conf.
