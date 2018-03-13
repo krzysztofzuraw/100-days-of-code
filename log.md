@@ -410,3 +410,9 @@ my `Tree` class is too complicated.
 **Today's Progress:** Doing speaker page for TM conf.
 
 **Thoughts:** I added simple website for individual speaker on TM conf.
+
+## Day 54: March 12, 2018
+
+**Today's Progress:** Fixing my old project.
+
+**Thoughts:** I fixed today my old Django project.
