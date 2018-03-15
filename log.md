@@ -411,8 +411,14 @@ my `Tree` class is too complicated.
 
 **Thoughts:** I added simple website for individual speaker on TM conf.
 
-## Day 54: March 12, 2018
+## Day 54: March 13, 2018
 
 **Today's Progress:** Fixing my old project.
 
 **Thoughts:** I fixed today my old Django project.
+
+## Day 55: March 15, 2018
+
+**Today's Progress:** I realeased my react & redux application. Started working with speakers page for TM conf.
+
+**Thoughts:** After some time I finally got some time to deploy my app. I also started implementing speakers page.
