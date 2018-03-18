@@ -419,6 +419,12 @@ my `Tree` class is too complicated.
 
 ## Day 55: March 15, 2018
 
-**Today's Progress:** I realeased my react & redux application. Started working with speakers page for TM conf.
+**Today's Progress:** I released my react & redux application. Started working with speakers page for TM conf.
 
 **Thoughts:** After some time I finally got some time to deploy my app. I also started implementing speakers page.
+
+## Day 56: March 18, 2018
+
+**Today's Progress:** New blog post & adding test to my react app.
+
+**Thoughts:** I started writing a tests for my react application.
