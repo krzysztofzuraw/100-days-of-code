@@ -428,3 +428,9 @@ my `Tree` class is too complicated.
 **Today's Progress:** New blog post & adding test to my react app.
 
 **Thoughts:** I started writing a tests for my react application.
+
+## Day 57: March 19, 2018
+
+**Today's Progress:** I added a couple of tests to my react app.
+
+**Thoughts:** As my application is ready - right now it's time to test it.
