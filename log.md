@@ -440,3 +440,9 @@ my `Tree` class is too complicated.
 **Today's Progress:** I added a couple of tests to my react app.
 
 **Thoughts:** As my application is ready - right now it's time to test it.
+
+## Day 59: March 31, 2018
+
+**Today's Progress:** Planing today with excercies for RxJS & testing my app.
+
+**Thoughts:** Today I stumbled upon excercies for RxJS basic operators like map, filter or concat. Started easy but it is challenging.
