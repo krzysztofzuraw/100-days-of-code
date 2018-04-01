@@ -446,3 +446,9 @@ my `Tree` class is too complicated.
 **Today's Progress:** Planing today with excercies for RxJS & testing my app.
 
 **Thoughts:** Today I stumbled upon excercies for RxJS basic operators like map, filter or concat. Started easy but it is challenging.
+
+## Day 60: April 1, 2018
+
+**Today's Progress:** I end today End of the loop course on egghead. Doing more flatMap exercises.
+
+**Thoughts:** Looping over nested structures can give a headache.
