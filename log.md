@@ -452,3 +452,9 @@ my `Tree` class is too complicated.
 **Today's Progress:** I end today End of the loop course on egghead. Doing more flatMap exercises.
 
 **Thoughts:** Looping over nested structures can give a headache.
+
+## Day 61: April 2, 2018
+
+**Today's Progress:** Finishing my pet project.
+
+**Thoughts:** Today I finished my react & redux pet project.
