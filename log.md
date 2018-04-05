@@ -458,3 +458,13 @@ my `Tree` class is too complicated.
 **Today's Progress:** Finishing my pet project.
 
 **Thoughts:** Today I finished my react & redux pet project.
+
+## Day 62: April 3, 2018
+
+**Today's Progress:** Playing with RxJS tasks.
+
+
+## Day 63: April 4, 2018
+
+**Today's Progress:** Playing with RxJS tasks.
+
