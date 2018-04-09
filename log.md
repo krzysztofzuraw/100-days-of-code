@@ -463,8 +463,12 @@ my `Tree` class is too complicated.
 
 **Today's Progress:** Playing with RxJS tasks.
 
-
 ## Day 63: April 4, 2018
 
 **Today's Progress:** Playing with RxJS tasks.
+
+## Day 64: April 9, 2018
+
+**Today's Progress:** Working with new side project.
+
 
