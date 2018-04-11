@@ -471,4 +471,11 @@ my `Tree` class is too complicated.
 
 **Today's Progress:** Working with new side project.
 
+## Day 65: April 10, 2018
+
+**Today's Progress:** Adding a few fixes to TM conf webstie.
+
+## Day 66: April 11, 2018
+
+**Today's Progress:** Adding last fixes to TM conf webstie.
 
